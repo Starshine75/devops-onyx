@@ -1,0 +1,16 @@
+{
+    "name": "demo-docker-nodejs-mongodb",
+    "version": "1.0.0",
+    "description": "Demo project for developing with Docker, Node.js, and MongoDB",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.13.7"
+    }
+  }
+  
